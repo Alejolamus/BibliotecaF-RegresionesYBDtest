@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUGmO8P0W4/RXOmR1KnUJfnI6suAHJPcQhENZRcG2/OGfXpHDjXuG3dqQreJ4GZ2QJiYmpmTOmq3bk56pMqcHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jhon Lamus\\source\\repos\\ProcesadorDeDatosParaBDVentas\\ProcesadorDeDatosParaBDVentas\\ProcesadorDeDatosParaBDVentas.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jhon Lamus\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
